@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b4ea8e1-c91b-44d9-a679-6dcb3225f96d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d0BEQjRd9sJqOVKwDA7xi6RNDF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ir_Informatic\tetris\src" />
+      <recent name="C:\Users\Ir_Informatic\tetris\src\pictures" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tetris" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Tetris" />
+      <module name="tetris" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Tetris" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b4ea8e1-c91b-44d9-a679-6dcb3225f96d" name="Default Changelist" comment="" />
+      <created>1591552018199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591552018199</updated>
+      <workItem from="1591552026345" duration="4437000" />
+      <workItem from="1591627735769" duration="4935000" />
+      <workItem from="1591680936577" duration="19908000" />
+      <workItem from="1591708884503" duration="1874000" />
+      <workItem from="1591721407279" duration="4924000" />
+      <workItem from="1591726468792" duration="144000" />
+      <workItem from="1591727176140" duration="1145000" />
+      <workItem from="1591728424320" duration="190000" />
+      <workItem from="1591772384726" duration="7746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="76" key="#Images" timestamp="1591706296473">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="360" y="76" key="#Images/0.0.1536.834@0.0.1536.834" timestamp="1591706296473" />
+    <state x="222" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591556417613">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="222" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1591556417613" />
+    <state x="537" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591705583696">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="537" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1591705583696" />
+    <state x="573" y="127" key="#com.intellij.ide.util.MemberChooser" timestamp="1591724569205">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="127" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1591724569205" />
+    <state x="548" y="159" key="FileChooserDialogImpl" timestamp="1591706294271">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="548" y="159" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1591706294271" />
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom" timestamp="1591643287991">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591643287991" />
+    <state width="1491" height="213" key="GridCell.Tab.0.center" timestamp="1591643287991">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591643287991" />
+    <state width="1491" height="213" key="GridCell.Tab.0.left" timestamp="1591643287991">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591643287991" />
+    <state width="1491" height="213" key="GridCell.Tab.0.right" timestamp="1591643287991">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1491" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591643287991" />
+    <state x="253" y="0" key="SettingsEditor" timestamp="1591554562005">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="253" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1591554562005" />
+    <state x="463" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1591772388356">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="463" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1591772388356" />
+  </component>
+</project>
